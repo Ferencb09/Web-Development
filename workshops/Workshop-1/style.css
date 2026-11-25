@@ -71,8 +71,8 @@ nav a:hover {
     width: 100px;
 } */
 #images img {
-    height: 30%;
-    width: 20%;
+    height: 400px;
+    width: 400px;
     object-fit: contain;
 
 }
@@ -81,5 +81,6 @@ nav a:hover {
     display: flex;
     justify-content: space-evenly;
 }
+a {}
 
 
