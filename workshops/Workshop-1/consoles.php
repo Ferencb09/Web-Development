@@ -1,19 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel=stylesheet href="style.css">
-</head>
-<body>    
-  <nav>
-    <div class ="header">
-    <h1>The AppleVault</h1>
-    <a  href="index.html">Home</a>
-    <a href="">Browse</a>
-    </div>
-    </nav>
+<?php
+include "includes/header.php"
+?>
   <div id="middenstuk">
    <h1>Consoles </h1>
 
