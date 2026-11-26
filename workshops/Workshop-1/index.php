@@ -11,7 +11,7 @@
     <nav>
     <div class ="header">
     <h1>The AppleVault</h1>
-    <a  href="https://youtube.com">Home</a>
+    <a  href="">Home</a>
     <a href="https://google.com">Browse</a>
     </div>
 
@@ -19,9 +19,9 @@
     <div id="middenstuk">
         
         <div class = "productenmenu">
-            <div class="entry"><a href= "iphones.html">iPhones</a></div>
-            <div class="entry"><a href= "consoles.html">Consoles</a></div>
-            <div class="entry"><a href= "games.html">Games</a></div>
+            <div class="entry"><a href= "iphones.php">iPhones</a></div>
+            <div class="entry"><a href= "consoles.php">Consoles</a></div>
+            <div class="entry"><a href= "games.php">Games</a></div>
         </div>
         <div id="images">
            <a href="iphones.html"> <img src="detail/images/iphone15.jpg" alt="Iphones"> </a>
